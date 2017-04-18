@@ -1,0 +1,9 @@
+DialCodeIntent {CountryName}
+DialCodeIntent What is the code for {CountryName}
+DialCodeIntent What's the code for {CountryName}
+DialCodeIntent What is the dial code for {CountryName}
+DialCodeIntent What's the dial code for {CountryName}
+DialCodeIntent What is the phone code for {CountryName}
+DialCodeIntent What's the phone code for {CountryName}
+DialCodeIntent What is the prefix code for {CountryName}
+DialCodeIntent What's the prefix code for {CountryName}
