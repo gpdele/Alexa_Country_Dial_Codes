@@ -344,7 +344,7 @@ function retrieveDialCode(intent, session, callback) {
 
     const sessionAttributes = {};
     const repromptText = REPROMPT_MESSAGE;
-    const shouldEndSession = false;
+    const shouldEndSession = true;
 
     // Get Code based on Slot
     var item = getItemCountry(intent.slots);
